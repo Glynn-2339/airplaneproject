@@ -17,7 +17,7 @@
 ## Installation
 **Step 1: Clone the Repository**  
 ```
-git clone <repository_url>
+git clone [https://github.com/Glynn-2339/airplaneproject/tree/main]
 cd AirlineBookingSystem
 ```
 
